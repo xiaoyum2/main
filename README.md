@@ -1,2 +1,2 @@
 # main
-main_directory
+this is the directory contains all works uploaded
